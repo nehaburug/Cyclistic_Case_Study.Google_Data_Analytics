@@ -12,4 +12,4 @@ Description of data source used:
 
 Data source: [Index of bucket "divvy-tripdata".](https://divvy-tripdata.s3.amazonaws.com/index.html) The data that has been used for analysis is from January to April of 2021.
 Licence: The data has been made available by Motivate International Inc. under the licence [Data License Agreement | Divvy Bikes.
-](https://divvybikes.com/data-license-agreement)
+]
